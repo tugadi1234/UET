@@ -34,3 +34,5 @@ Bu loyiha **Node.js**, **Express**, va **MongoDB** yordamida yozilgan profession
 ```bash
 git clone https://github.com/username/user-management-api.git
 cd user-management-api
+npm install
+npm start
