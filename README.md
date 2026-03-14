@@ -18,8 +18,8 @@ Bu loyiha **Node.js**, **Express**, va **MongoDB** yordamida yozilgan profession
 
 ## 🚀 Features
 
-- Foydalanuvchi qo‘shish (`POST /api/add`)  
-- Barcha foydalanuvchilarni olish (`GET /api/2`)  
+- Foydalanuvchi qo‘shish (`POST /v1/add`)  
+- Barcha foydalanuvchilarni olish (`GET /v1/all`)  
 - Foydalanuvchini ID orqali olish (`GET /v1/:id`)  
 - Foydalanuvchini ID orqali o‘chirish (`DELETE /v1/:id`)  
 - Foydalanuvchi uchun **photo upload** qo‘llab-quvvatlash  
